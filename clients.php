@@ -89,7 +89,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
 										<th>Adresse</th>
 										<th>Email</th>
 										<th>Téléphone</th>
-										<th>Pays</th>
+										<th>Hoiddddd</th>
 										<th>Matricule fiscale</th>
 										<th>Action</th>
 									</tr>

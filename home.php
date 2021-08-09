@@ -34,7 +34,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
         </div>
         <div class="box">
           <div class="right-side">
-            <div class="box-topic">Total Profit</div>
+            <div class="box-topic">Total profit</div>
             <div class="number">$12,876</div>
             <div class="indicator">
               <i class='bx bx-up-arrow-alt'></i>
