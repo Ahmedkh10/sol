@@ -4,7 +4,7 @@ require_once ("db_conn.php");
 if (isset($_POST['submit'])){
     if (empty($_POST['nom'])|| empty($_POST['email'])|| empty($_POST['reference'])|| empty($_POST['adresse'])|| empty($_POST['pays'])|| empty($_POST['tel'])|| empty($_POST['matricule']) )
     {
-        echo "Please fill the blanks";
+        echo "Please fill";
     }
     else {
         $nom = $_POST['nom'];
